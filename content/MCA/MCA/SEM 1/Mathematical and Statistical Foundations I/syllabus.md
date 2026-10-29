@@ -1,0 +1,27 @@
+- **Unit 1: Probability**
+    - Introduction to Probability, Conditional Probability, Bayes Theorem
+    - Random Variables
+    - Probability Distributions: Bernoulli, Uniform, Binomial, Normal, Poisson, Geometric, Exponential
+- **Unit 2: Statistics**
+    - Population vs Sample, Dependent and Independent variables, Categorical and Continuous Variables
+    - Central Tendency, Variance, Covariance, Correlation, Central Limit Theorem
+    - Descriptive Statistics: Multivariate Analysis (scatter plot, grouped box-plot, heat-map), Function Models (linear, exponential, logistic)
+    - Inferential Statistics: Sampling Distributions, Hypothesis Testing (t-testing), Normality, Confidence Intervals, Estimation
+    - Regression: Simple Linear Regression, Multiple Linear Regression, Nonlinear Regression
+- **Unit 3: Linear Algebra**
+    - Systems of Linear Equations, Matrices, Multiplying Matrices, Identity and Inverse Matrices
+    - Special Matrices (Diagonal, Symmetric & Orthogonal matrices)
+    - Solving Systems of Linear Equations, Linear Independence
+- **Unit 4: Analytic Geometry**
+    - Norms, Inner Products, Lengths and Distances, Angles and Orthogonality
+    - Orthonormal Basis, Inner Product of Functions, Orthogonal Projections, Rotations
+- **Unit 5: Matrix Decomposition**
+    - Determinant and Trace, Eigenvalues and Eigenvectors, Eigendecomposition, Diagonalization
+    - Singular Value Decomposition (SVD), Principal Component Analysis (PCA)
+- **Unit 6: Time Series Analysis**
+    - Trends and seasonal variations, Exponential smoothing
+    - Forecasting techniques (predictions and error analysis)
+- **Unit 7: Graph Theory**
+    - Definition of Graph, Path, Circuits, Reachability, Connectedness
+    - Matrix representation of graphs, List structures and graphs
+    - General Tree, Binary Tree, Tree Traversals

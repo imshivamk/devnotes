@@ -1,0 +1,6 @@
+[[Management information system]]
+[[Mathematics and stats]]
+[[OS]]
+[[Software engineering and project management]]
+[[Business English]]
+[[Labs and projects]]

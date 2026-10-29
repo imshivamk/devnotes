@@ -1,0 +1,15 @@
+- **Unit 1: Vocabulary Building**
+    - Concept of Word Formation, Root words from foreign languages
+    - Prefixes and suffixes from foreign languages to form derivatives
+    - Technical vocabulary specific to engineering/computing fields
+- **Unit 2: Basic Writing Skills**
+    - Sentence Structures, Phrases and Clauses
+    - Importance of proper punctuation, Creating coherence
+    - Organizing principles of paragraphs in documents
+- **Unit 3: Identifying Common Errors in Writing**
+    - Subject-verb agreement, Noun-pronoun agreement
+    - Misplaced modifiers, Articles, Prepositions
+- **Unit 4: Writing Practices**
+    - Summarization, Email writing, Business letters
+- **Unit 5: Speaking Skills**
+    - Overcoming fear, Organizing and delivering formal speeches

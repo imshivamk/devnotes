@@ -1,0 +1,18 @@
+- **Operating System Lab (R5MC5013P)**
+    - CPU Scheduling: FCFS, SJF (Preemptive & Non-Preemptive), Round Robin, Priority
+    - Concurrency: Mutual exclusion using Semaphores
+    - Deadlock Avoidance: Banker's Algorithm
+    - Page Replacement: FIFO, LRU, LFU
+    - Disk Scheduling: FCFS, SSTF, SCAN, C-SCAN, LOOK, C-LOOK
+- **Mobile Computing Lab (R5MC5017L)**
+    - Mobile platform cross-comparison & analysis of 1G to 5G cellular technologies
+    - Basic Android UI controls (EditView, Buttons, Radio Buttons, Checkboxes, Toggle Button)
+    - Android apps: Calculator, Temperature Converter, Calendar Generator, To-Do List, Database CRUD App, Quiz App, Animations
+- **Web Technology Lab (R5MC5018L)**
+    - **Node.js:** Modules, NPM, Web Server setup, File System, Debugging, Events, Express.js, Database connectivity & Template engines
+    - **AngularJS:** Data Binding, Directives, Controllers, Filters, Forms, Services
+    - **React & Flutter:** React Framework demonstration & Flutter environment exploration
+- **Mini Project I - SSAD, OOAD, UX Principles (R5MC5019D)**
+    - UML Modeling: Use Case, Activity, Class, Object, Sequence, Communication, Timing, Component, State Machine, Deployment Diagrams
+    - SRS & SDS Document Generation from UML models
+    - Implementation of a Java-based mini-project utilizing integrated UML modeling

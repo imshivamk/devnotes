@@ -1,0 +1,30 @@
+- **Unit 1: Introduction**
+    - Software Characteristics, Emergence of Software Engineering
+    - Software life cycle/process models, Agile process, Agile process models
+    - Requirements Analysis and Specification: Gathering, Analysis, SRS
+    - Project Size Estimation Metrics: Lines of Code (LOC), Function Point (FP) Metric, Feature Point Metric, Software Scope
+    - Software Estimation Techniques, Analytical Estimation Techniques, Risk Management
+- **Unit 2: Software Design and Software Configuration Management**
+    - Software Design: Overview of Design Process, Design Characterization, Cohesion and Coupling, Layered Modules, Approaches to Software Design
+    - Software Configuration Management (SCM): Baselines, SCM Process, SCM Configuration, Audit Version Control, Source Code Control Systems (SCCS)
+- **Unit 3: Fundamental of Testing**
+    - Test Process Fundamentals, Psychology of Testing, General Principles
+    - Static Testing, Dynamic Testing, Black Box Testing, White Box Testing
+    - Agile Methodology and its impact on testing
+    - Test Levels, Test Organization, Test teams, tasks and Qualifications
+    - Specialized Testing: Performance, Load, Stress & Security Testing, Testing tools
+- **Unit 4: Project Management**
+    - Need, Goals, Evolution, Project environments
+    - Planning fundamentals: Planning steps, Project master plan, Scope and work definition
+    - Project organization structure and responsibilities, Project management system
+    - Scheduling, Planning and scheduling charts, Cost estimating and budgeting
+- **Unit 5: Project Control**
+    - Control process, Control emphasis, Information monitoring, Internal/External project control
+    - Traditional cost control, Cost accounting systems for project control
+    - Performance analysis, Performance index monitoring, Variance limits
+    - Controlling changes, Contract administration, Control problems
+- **Unit 6: Project Management Information System (PMIS)**
+    - Functions of PMIS, Computer-based tools, Computer-based PMIS, Representative Computer-based PMIS, Web-based Project management, Applying computer-based PMS
+- **Unit 7: Software Quality and Termination**
+    - Software quality importance, ISO 9126, Software quality measures, External standards, Techniques to enhance software quality
+    - Terminating the project, Termination responsibilities, Closing and contracts, Project extension

@@ -1,0 +1,42 @@
+- **Unit 1: Introduction**
+    - Defining components of system, Data and Information
+    - Information systems in organization and their capabilities
+    - The MIS Pyramid, types of data requirements at each level
+    - Foundation concepts: Business Applications, development, and Management
+    - Role and process of management, Functions of a manager, Methods of Management
+- **Unit 2: Types of Information Systems**
+    - Transaction Processing System (TPS), Management Reporting System (MRS)
+    - Decision Support System (DSS), Executive Information System (EIS)
+    - Office Information System, Professional Information System, Business Information System
+    - Reports generated at each level and their dependencies
+- **Unit 3: IS Planning**
+    - Strategic Planning Model, Management Control Model
+    - Types of planning and Traditional Strategy making
+    - Assumptions in traditional planning
+    - Various Planning approaches: Traditional and Current scenario
+- **Unit 4: Functional Subsystems**
+    - Marketing and Sales, Finance and Accounting, Production, Human Resources, Logistics and Inventory, Research and Development
+    - Identifying required data and outputs for each functional subsystem and their dependencies
+- **Unit 5: Decision Support Systems (DSS)**
+    - Overview and Capabilities of DSS
+    - DSS models: Scenario generation, Goal Seeking
+    - DSS Components/Architecture and Classification
+    - Group Decision Support System (GDSS): Characteristics of groups, Group decision-making techniques, GDSS Architecture, Types/Applications
+- **Unit 6: Expert Systems**
+    - Capabilities and Architecture of Expert Systems
+    - Applications to Information Systems
+    - Development, Maintenance, Benefits, and Limitations
+- **Unit 7: Introduction to E-Business**
+    - Models of E-business
+    - Intranets / Extranets / WWW
+    - Effect on MIS
+- **Unit 8: Ethical and Societal Issues**
+    - Ethical Issues, Societal issues, Dark Side of IT
+- **Unit 9: Managing Green IT and Smart Cities**
+    - What is Green IT?, Green practices in Hardware and Software industry
+    - Green practices in IT use and Monitoring Value Chain Activities
+    - Smart Cities: Facilities and Challenges for Managers
+- **Unit 10: ICT for Development of E-Governance**
+    - ICT for development and Types of ICT Interventions
+    - Examples of ICT for development projects
+    - E-Governance concepts and E-Participation

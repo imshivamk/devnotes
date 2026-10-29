@@ -1,0 +1,8 @@
+[[1. SQL basics]]
+[[2. relationships and foreign keys]]
+[[3. Important queries - used frequently]]
+[[4. Advanced SQL queries]]
+[[5. Postgresql and pgAdmin tools]]
+[[6. Connecting to Java backend]]
+[[7. Connecting to PERN backend]]
+[[8. using Prisma ORM in PERN stack]]

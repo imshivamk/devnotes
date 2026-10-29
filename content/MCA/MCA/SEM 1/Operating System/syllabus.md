@@ -1,0 +1,37 @@
+- **Unit 1: Introduction to Operating Systems**
+    - Role and Purpose, Functionality of typical OS
+    - Mainframe, Desktop, Multiprocessor, Distributed, Clustered, Real-Time, Handheld Systems
+    - Feature Migration, Computing Environments
+- **Unit 2: Operating System Structures**
+    - System Components (Compiler, Assembler, Linker, Loader, OS, I/O manager)
+    - Structuring methods (Monolithic, Layered, Modular, Micro-kernel models)
+    - OS Services, Abstractions, Processes and Resources, System Calls, System Programs, System Structure, Virtual Machines, System Design & Implementation
+    - Design issues (efficiency, robustness, flexibility, portability, security, compatibility)
+    - Influences of security, networking, multimedia, windowing systems
+- **Unit 3: Process Management**
+    - Concept of Process and Threads, Process States, Process Description, Process Control
+    - Context switching, Execution of the OS, Security Issues
+    - Symmetric Multiprocessing (SMP), Microkernels, CPU Scheduler and Scheduling
+- **Unit 4: Concurrency: Mutual Execution and Synchronization**
+    - Principles of Concurrency, Need for Interprocess Synchronization, Race Condition
+    - Mutual Exclusion: Semaphores, Hardware support, Queuing implementation of semaphores
+    - Classical concurrency problems: Critical region, Monitors, Message Passing, Readers/Writers Problem, Producer/Consumer Problem
+- **Unit 5: Deadlock and Starvation**
+    - Principles of Deadlock, Deadlock Prevention, Avoidance, Detection, Integrated Strategy, Recovery
+    - Dining Philosophers Problem
+- **Unit 6: Memory Management**
+    - Memory Partitioning, Swapping, Contiguous Memory Allocation
+    - Paging, Segmentation, Paging with Segmentation, Segmentation with Paging
+    - Demand Paging, Page Replacement Algorithms, Allocation of Frames, Thrashing
+- **Unit 7: File System - Interface and Implementation**
+    - File Concepts (data, metadata, operations, organization, buffering, sequential, non-sequential)
+    - Access Methods, Directory Content Structure, Partitioning, Mounting/Unmounting
+    - File sharing, Protection, File system structure, Directory Implementation, Allocation methods, Free-space management
+- **Unit 8: Secondary Storage, Security, and Protection**
+    - Disk Structure, Disk Scheduling, Disk Management
+    - Security Problem, User Authentication, Program Threats, System Threats, Security methods and devices
+- **Unit 9: Performance Management, Monitoring, and Evaluation**
+    - Important trends, Need for performance monitoring/evaluation, Performance measures
+    - Evaluation techniques, Bottlenecks and saturation, Feedback loops
+- **Unit 10: Case Studies**
+    - MS-DOS, MS-Windows, Linux (UNIX) Operating Systems
